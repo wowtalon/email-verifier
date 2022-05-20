@@ -33,7 +33,7 @@ if __name__ == '__main__':
 /_/  /_/\__,_/_/_/      |___/\___/_/
 
 Version: 0.1
-Author: wowtalon(https://github.com/wowtalon/mail-ver.git)
+Author: wowtalon(https://github.com/wowtalon/email-verifier)
     ''')
     parser = argparse.ArgumentParser()
     parser.add_argument('--token', required=False, help="Api key of hunter.io")
